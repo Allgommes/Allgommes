@@ -35,8 +35,8 @@ Adoro criar soluções que facilitam o dia a dia e compartilhar meus aprendizado
 ### 📫 Onde me encontrar:
 
 <p>
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  
+  <a href="https://www.linkedin.com/in/alvarogomesfaria/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ##
