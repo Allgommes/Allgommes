@@ -16,7 +16,7 @@ Adoro criar soluções que facilitam o dia a dia e compartilhar meus aprendizado
 
 ##
 
-### 🧠 Tecnologias que estou estudando
+### 🧠 Tecnologias que estou studando
 
 <div align="left">
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/></a>
@@ -34,31 +34,44 @@ Adoro criar soluções que facilitam o dia a dia e compartilhar meus aprendizado
 ### 📫 Onde me encontrar:
 
 <p>
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" /></a>
+  
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-##
-
-![snake gif](https://github.com/Allgommes/Allgommes/blob/output/github-contribution-grid-snake.svg)
 
 ### 🔧 Projetos em destaque
 
-<!-- Lista atualizada com os seus repositórios mais ativos -->
+<!-- Limitado a 4, ordenados pelos mais recentes (data de push) -->
 <div align="center">
-  <a href="https://github.com/Allgommes/HOTEL-SOL-MAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=HOTEL-SOL-MAR&theme=dracula" alt="HOTEL-SOL-MAR" />
-  </a>
-  <a href="https://github.com/Allgommes/projectsphp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=projectsphp&theme=dracula" alt="projectsphp" />
-  </a>
-  <a href="https://github.com/Allgommes/CodePHP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=CodePHP&theme=dracula" alt="CodePHP" />
-  </a>
-  <a href="https://github.com/Allgommes/exerciciosLinguagemC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=exerciciosLinguagemC&theme=dracula" alt="exerciciosLinguagemC" />
-  </a>
-  <a href="https://github.com/Allgommes/HTML_FORMACAO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=HTML_FORMACAO&theme=dracula" alt="HTML_FORMACAO" />
-  </a>
+  <!-- 1. C-Programing (mais recente) -->
+  <div style="display:inline-block;margin:8px;text-align:center;">
+    <a href="https://github.com/Allgommes/C-Programing">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=C-Programing&theme=dracula" alt="C-Programing" />
+    </a>
+    <p align="center"><strong>C-Programing</strong><br/>Coleção de exercícios e exemplos em C++ para praticar lógica, estruturas de dados e algoritmos.</p>
+  </div>
+
+  <!-- 2. Projecto_AUnidos (privado) -->
+  <div style="display:inline-block;margin:8px;text-align:center;">
+    <a href="https://github.com/Allgommes/Projecto_AUnidos">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=Projecto_AUnidos&theme=dracula" alt="Projecto_AUnidos" />
+    </a>
+    <p align="center"><strong>Projecto_AUnidos</strong> (private)<br/>Plataforma AUnidos: conecta donos de cães e educadores, facilitando agendamento e gestão de serviços.</p>
+  </div>
+
+  <!-- 3. HOTEL-SOL-MAR -->
+  <div style="display:inline-block;margin:8px;text-align:center;">
+    <a href="https://github.com/Allgommes/HOTEL-SOL-MAR">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=HOTEL-SOL-MAR&theme=dracula" alt="HOTEL-SOL-MAR" />
+    </a>
+    <p align="center"><strong>HOTEL-SOL-MAR</strong><br/>Sistema de gestão de reservas para Hotel Sol &amp; Mar — desenvolvido em PHP, MySQL e Bootstrap.</p>
+  </div>
+
+  <!-- 4. HTML_FORMACAO -->
+  <div style="display:inline-block;margin:8px;text-align:center;">
+    <a href="https://github.com/Allgommes/HTML_FORMACAO">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=HTML_FORMACAO&theme=dracula" alt="HTML_FORMACAO" />
+    </a>
+    <p align="center"><strong>HTML_FORMACAO</strong><br/>Projetos e exercícios de formação em Web Client-side (HTML/CSS) — UFCD 5414.</p>
+  </div>
 </div>
