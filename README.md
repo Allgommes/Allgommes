@@ -76,3 +76,4 @@ Adoro criar soluções que facilitam o dia a dia e compartilhar meus aprendizado
 <p>
   <a href="https://www.linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
