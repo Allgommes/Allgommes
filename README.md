@@ -39,33 +39,6 @@ Adoro criar soluções que facilitam o dia a dia e compartilhar meus aprendizado
 </p>
 
 
-### 🔧 Projetos em destaque
-
-<!-- Limitado a 4, ordenados pelos mais recentes (data de push) -->
-<div align="center">
-  <!-- 1. C-Programing (mais recente) -->
-  <div style="display:inline-block;margin:8px;text-align:center;">
-    <a href="https://github.com/Allgommes/C-Programing">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=C-Programing&theme=dracula" alt="C-Programing" />
-    </a>
-    <p align="center"><strong>C-Programing</strong><br/>Coleção de exercícios e exemplos em C++ para praticar lógica, estruturas de dados e algoritmos.</p>
-  </div>
-
-  <!-- 2. Projecto_AUnidos (privado) -->
-  <div style="display:inline-block;margin:8px;text-align:center;">
-    <a href="https://github.com/Allgommes/Projecto_AUnidos">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=Projecto_AUnidos&theme=dracula" alt="Projecto_AUnidos" />
-    </a>
-    <p align="center"><strong>Projecto_AUnidos</strong> (private)<br/>Plataforma AUnidos: conecta donos de cães e educadores, facilitando agendamento e gestão de serviços.</p>
-  </div>
-
-  <!-- 3. HOTEL-SOL-MAR -->
-  <div style="display:inline-block;margin:8px;text-align:center;">
-    <a href="https://github.com/Allgommes/HOTEL-SOL-MAR">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Allgommes&repo=HOTEL-SOL-MAR&theme=dracula" alt="HOTEL-SOL-MAR" />
-    </a>
-    <p align="center"><strong>HOTEL-SOL-MAR</strong><br/>Sistema de gestão de reservas para Hotel Sol &amp; Mar — desenvolvido em PHP, MySQL e Bootstrap.</p>
-  </div>
 
   <!-- 4. HTML_FORMACAO -->
   <div style="display:inline-block;margin:8px;text-align:center;">
