@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Allgommes</h1>
+<h1 align="center">Olá! Eu sou o Alvaro Faria</h1>
 
 <p align="center">
 Sou estudante e entusiasta de programação, explorando diferentes linguagens e tecnologias.  
