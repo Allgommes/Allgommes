@@ -1,9 +1,15 @@
-<h1 align="center">Olá! Eu sou o Alvaro Faria</h1>
+<h1 align="center">Hello! I am Alvaro Faria</h1>
 
 <p align="center">
-Sou estudante e entusiasta de programação, explorando diferentes linguagens e tecnologias.  
-Tenho experiência prática com projetos em PHP, C, HTML e desenvolvimento web.  
-Adoro criar soluções que facilitam o dia a dia e compartilhar meus aprendizados com a comunidade.
+Technical Specialist in Information Systems Technologies and Programming Next.js, Prisma, Alchemy, Flask, Tailwind, Python, Python-pptx, TypeScript, JavaScript, SQL, Alchemy among other programming languages. 
+  
+Focused on developing robust, efficient, and well-structured software solutions. My training and projects span multiple areas of modern software development, including:
+- Software Engineering principles
+- Web Development (client-side and server-side)
+- Databases (design, queries, optimization)
+- Networks and Security fundamentals
+- Mobile Application Development
+- I value clean architecture, scalability, performance, and best practices.
 </p>
 
 <div align="left">
